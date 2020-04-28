@@ -9,3 +9,11 @@
 /iml/
 /.metadata/
 /out/
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/DS.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
